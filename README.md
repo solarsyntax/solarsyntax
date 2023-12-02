@@ -13,21 +13,17 @@
 ### <img src="Profile2/cofi.png" width="50">  About Me
 
 ```javascript
-const Ayon_ssp = {
+const Ang = {
   pronouns: "he" | "him",
-  Iam : ["Software Developer", "OPEN SOURCE Dev", "Competitive Programming"],
-  code: [Python, SQL, Javascript, CSS, PHP, C/C++],
-  tools & Tech: [Django, Django-REST, React JS, vscode, Node, PostgreSQL, Docker, Linux, Git, Flask, HTML, Postman],
+  Iam : ["Student in University Mumhammadiyah Malang"],
+  code: [Python, Java, SQL ,Javascript, CSS, PHP, C/C++],
+  tools & Tech: [React JS, vscode, Node, Docker, Linux, Git, HTML, Postman],
   TechWork: {
-          Competitive Programming: "Solving Problems",
-          OPEN SOURCE Dev : "RandomCoderOrg",
+          Nope
     },
   Experience: {
-          Technical Content Writer: "GeeksForGeeks",
-          Software_Developer Intern: "ENITIATE(Product Based Startup)",
-          Software_Developer (Intern + Fulltime): "Mastek"
+          Nope
     },
- challenge: "Currently I'm focused on Django, Django REST api, React and DSA"
 }
 ```
 <img align='left' src="Profile2/dance.gif" width="50">
