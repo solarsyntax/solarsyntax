@@ -19,10 +19,10 @@ const Ang = {
   code: [Python, Java, SQL ,Javascript, CSS, PHP, C/C++],
   tools & Tech: [React JS, vscode, Node, Docker, Linux, Git, HTML, Postman],
   TechWork: {
-          Nope
+          Null
     },
   Experience: {
-          Nope
+          Null
     },
 }
 ```
