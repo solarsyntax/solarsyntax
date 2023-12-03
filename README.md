@@ -15,7 +15,7 @@
 ```javascript
 const Ang = {
   pronouns: "he" | "him",
-  Iam : ["Student in University Mumhammadiyah Malang"],
+  Iam : ["Student in University Muhammadiyah Malang"],
   code: [Python, Java, SQL ,Javascript, CSS, PHP, C/C++],
   tools & Tech: [React JS, vscode, Node, Docker, Linux, Git, HTML, Postman],
   TechWork: {
