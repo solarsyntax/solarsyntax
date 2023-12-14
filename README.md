@@ -16,7 +16,7 @@
 const Ang = {
   pronouns: "he" | "him",
   Iam : ["Student in University Muhammadiyah Malang"],
-  code: [Python, Java, SQL, Flutter,J avascript, CSS, PHP, C/C++],
+  code: [Python, Java, SQL, Flutter,Javascript, CSS, PHP, C/C++],
   tools & Tech: [React JS, vscode, Node, Docker, Linux, Git, HTML, Postman, Android Studio],
   TechWork: {
           Null
